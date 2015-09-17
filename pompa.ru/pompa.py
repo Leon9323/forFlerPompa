@@ -40,7 +40,8 @@ def getCity(countryID):
     #return r;
 def getData():
     #create xml
-    xml = etree.Element('companies', version="2.1");
+    #xml = etree.Element('companies', version="2.1");
+    xml = etree.Element('companies', nsmap={'xi':"http://www.w3.org/2001/XInclude"}, version="2.1");
     #load country
     for country in getCountry():
         countryID = country["id"];
