@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<companies version="2.1">
+<companies xmlns:xi="http://www.w3.org/2001/XInclude" version="2.1">
   <company>
     <company-id>bx_3966226736_118745</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
