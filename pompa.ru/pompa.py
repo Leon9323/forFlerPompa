@@ -73,15 +73,21 @@ def getData():
                 city = page.xpath(pathCity);
                 pathAddress = ".//*[@id='shops-list']/table/tr["+str(i)+"]/td[2]/a/text()";
                 address = page.xpath(pathAddress);
-                etree.SubElement(company, "address", lang="ru").text = u"город "+city[0]+", "+address[0];
+                clear_adress = address[0].replace("(","");
+                clear_adress = clear_adress.replace(")","");
+                clear_adress = clear_adress.replace('"',"");
+                etree.SubElement(company, "address", lang="ru").text = u"город "+city[0]+", "+clear_adress;
                 #phone
                 pathPhone = ".//*[@id='shops-list']/table/tr["+str(i)+"]/td[2]/text()";
                 phoneCompany = page.xpath(pathPhone);
                 phone = etree.SubElement(company, "phone");
                 try:
                     first = unicode(phoneCompany[1]).index(u"Тел. ")+5;
-                    last = first+16;
+                    last = first+18;
                     resultPhone = unicode(phoneCompany[1])[first:last].strip();
+                    if resultPhone[1] == u"-":
+                        lastSymbol = resultPhone[2:len(resultPhone)].find(u"-");
+                        resultPhone = resultPhone[0]+u"("+resultPhone[2:(lastSymbol+2)]+u") "+resultPhone[(lastSymbol+2+1):len(resultPhone)];
                 except ValueError:
                     resultPhone = u"";
                 etree.SubElement(phone, "number").text = resultPhone;
@@ -99,6 +105,12 @@ def getData():
                 pathLat = ".//*[@id='shops-list']/table/tr["+str(i)+"]/td[2]/a/@data-lat";
                 latMap = page.xpath(pathLat);
                 etree.SubElement(company, "lat").text = latMap[0];
+                #rubric-id
+                rubric="184107943";
+                etree.SubElement(company, "rubric-id").text = rubric;
+                #url
+                site="http://www.pompa.ru";
+                etree.SubElement(company, "url").text = site;
                 #date
                 date = datetime.date.today().strftime("%d.%m.%Y");
                 etree.SubElement(company, "actualization-date").text = date;

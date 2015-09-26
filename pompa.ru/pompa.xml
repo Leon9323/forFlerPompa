@@ -3,7 +3,7 @@
   <company>
     <company-id>bx_3966226736_118745</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Санкт-Петербург, ТРК "ГУЛЛИВЕР", Торфяная дорога, д. 7, 3 этаж</address>
+    <address lang="ru">город Санкт-Петербург, ТРК ГУЛЛИВЕР, Торфяная дорога, д. 7, 3 этаж</address>
     <phone>
       <number>(812) 441-23-49</number>
       <ext/>
@@ -13,12 +13,14 @@
     <country lang="ru">Россия</country>
     <lon>30.2567050568</lon>
     <lat>59.9898774034</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_66221</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Санкт-Петербург, ТРК "ВОЯЖ", пр.Энгельса, д.124</address>
+    <address lang="ru">город Санкт-Петербург, ТРК ВОЯЖ, пр.Энгельса, д.124</address>
     <phone>
       <number>(812) 680-10-49</number>
       <ext/>
@@ -28,14 +30,16 @@
     <country lang="ru">Россия</country>
     <lon>30.323394932541</lon>
     <lat>60.038962063171</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118750</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
     <address lang="ru">город Санкт-Петербург, пр.Науки , д. 30</address>
     <phone>
-      <number>8-911-207-48-60</number>
+      <number>8(911) 207-48-60</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -43,7 +47,9 @@
     <country lang="ru">Россия</country>
     <lon>30.4180694312</lon>
     <lat>60.0082389347</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118751</company-id>
@@ -58,7 +64,9 @@
     <country lang="ru">Россия</country>
     <lon>30.6237746481</lon>
     <lat>59.7377631706</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118752</company-id>
@@ -73,14 +81,16 @@
     <country lang="ru">Россия</country>
     <lon>30.583952050262</lon>
     <lat>59.740470192028</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118753</company-id>
     <name lang="ru">Дисконт-магазин POMPA</name>
     <address lang="ru">город Санкт-Петербург, пр. Просвещения, 87</address>
     <phone>
-      <number>8-911-926-10-99</number>
+      <number>8(911) 926-10-99</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -88,7 +98,9 @@
     <country lang="ru">Россия</country>
     <lon>30.415643338623</lon>
     <lat>60.035741999991</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118754</company-id>
@@ -103,14 +115,16 @@
     <country lang="ru">Россия</country>
     <lon>91.4228939378</lon>
     <lat>53.7436031936</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_197512</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Архангельск, ТРК "Титан-Арена", 2 этаж (ул. Воскресенская, д. 20)</address>
+    <address lang="ru">город Архангельск, ТРК Титан-Арена, 2 этаж ул. Воскресенская, д. 20</address>
     <phone>
-      <number>8-981-556-07-47</number>
+      <number>8(981) 556-07-47</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -118,7 +132,9 @@
     <country lang="ru">Россия</country>
     <lon>40.535543205892</lon>
     <lat>64.541758196709</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118755</company-id>
@@ -133,12 +149,14 @@
     <country lang="ru">Россия</country>
     <lon>36.5712775992</lon>
     <lat>50.5519091695</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118756</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Благовещенск, ТЦ "Амурская ярмарка" , ул. "50 лет Октября", д.15, 2 этаж</address>
+    <address lang="ru">город Благовещенск, ТЦ Амурская ярмарка , ул. 50 лет Октября, д.15, 2 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -148,7 +166,9 @@
     <country lang="ru">Россия</country>
     <lon>127.53535608212</lon>
     <lat>50.261862165918</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118757</company-id>
@@ -163,12 +183,14 @@
     <country lang="ru">Россия</country>
     <lon>34.3016031855</lon>
     <lat>53.3062552165</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_66220</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Великий Новгород, ТЦ "Волна", ул. Большая Санкт-Петербургская, д. 39, 2 этаж</address>
+    <address lang="ru">город Великий Новгород, ТЦ Волна, ул. Большая Санкт-Петербургская, д. 39, 2 этаж</address>
     <phone>
       <number>(8162) 338-807</number>
       <ext/>
@@ -178,14 +200,16 @@
     <country lang="ru">Россия</country>
     <lon>31.263326542328</lon>
     <lat>58.538851923787</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_66219</company-id>
     <name lang="ru">Дисконт-магазин POMPA</name>
     <address lang="ru">город Великий Новгород, ул. Большая Санкт-Петербургская, 1/7</address>
     <phone>
-      <number>8 (4832) 60-63-4</number>
+      <number>8 (4832) 60-63-41</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -193,14 +217,16 @@
     <country lang="ru">Россия</country>
     <lon>31.273678526459</lon>
     <lat>58.525654283701</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118758</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Владивосток, ТК "Черемушки", ул. Черёмуховая, 15</address>
+    <address lang="ru">город Владивосток, ТК Черемушки, ул. Черёмуховая, 15</address>
     <phone>
-      <number>8 (423) 246-90-2</number>
+      <number>8 (423) 246-90-20</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -208,12 +234,14 @@
     <country lang="ru">Россия</country>
     <lon>131.90440809212</lon>
     <lat>43.099737801415</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118759</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Владимир, ТЦ "Мега Торг", ул. Тракторная, д. 45, 2 этаж</address>
+    <address lang="ru">город Владимир, ТЦ Мега Торг, ул. Тракторная, д. 45, 2 этаж</address>
     <phone>
       <number>(4922) 52-99-71</number>
       <ext/>
@@ -223,14 +251,16 @@
     <country lang="ru">Россия</country>
     <lon>40.3859375206</lon>
     <lat>56.149772062</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_190099</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Вологда , ТРЦ "Мармелад", Пошехонское шоссе 22, 2 этаж</address>
+    <address lang="ru">город Вологда , ТРЦ Мармелад, Пошехонское шоссе 22, 2 этаж</address>
     <phone>
-      <number>8-8172-71-53-97</number>
+      <number>8(8172) 71-53-97</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -238,12 +268,14 @@
     <country lang="ru">Россия</country>
     <lon>39.859570904279</lon>
     <lat>59.197198637663</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118760</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Волгоград, ТЦ "Европа Сити Молл", пр. Ленина д. 54Б, 3 этаж</address>
+    <address lang="ru">город Волгоград, ТЦ Европа Сити Молл, пр. Ленина д. 54Б, 3 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -253,14 +285,16 @@
     <country lang="ru">Россия</country>
     <lon>44.5414362271</lon>
     <lat>48.7258156837</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118762</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
     <address lang="ru">город Екатеринбург, ТРЦ Радуга-Парк, ул. Репина 94, 1 этаж</address>
     <phone>
-      <number>8-343-282-94-96</number>
+      <number>8(343) 282-94-96</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -268,12 +302,14 @@
     <country lang="ru">Россия</country>
     <lon>60.541769620576</lon>
     <lat>56.816219965432</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_180676</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Иваново, ТЦ "Серебрянный Город", ул. 8 Марта, д. 32, 3 этаж</address>
+    <address lang="ru">город Иваново, ТЦ Серебрянный Город, ул. 8 Марта, д. 32, 3 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -283,12 +319,14 @@
     <country lang="ru">Россия</country>
     <lon>40.985171645508</lon>
     <lat>57.005511000447</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_185475</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Ижевск, ТРК "Столица" ул. Автозаводская, 3А, 2 этаж</address>
+    <address lang="ru">город Ижевск, ТРК Столица ул. Автозаводская, 3А, 2 этаж</address>
     <phone>
       <number>(3412) 908744</number>
       <ext/>
@@ -298,12 +336,14 @@
     <country lang="ru">Россия</country>
     <lon>53.277468186508</lon>
     <lat>56.873437999977</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118765</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Ижевск, ТЦ "Аксион", ул. Карла Маркса, д. 191, 1 этаж</address>
+    <address lang="ru">город Ижевск, ТЦ Аксион, ул. Карла Маркса, д. 191, 1 этаж</address>
     <phone>
       <number>(3412) 908785</number>
       <ext/>
@@ -313,12 +353,14 @@
     <country lang="ru">Россия</country>
     <lon>53.2029832134</lon>
     <lat>56.8475475915</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118766</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Киров, ул. Воровского, д. 77, "ЦУМ", 3 этаж</address>
+    <address lang="ru">город Киров, ул. Воровского, д. 77, ЦУМ, 3 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -328,7 +370,9 @@
     <country lang="ru">Россия</country>
     <lon>49.6560571793</lon>
     <lat>58.5944751851</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118768</company-id>
@@ -343,12 +387,14 @@
     <country lang="ru">Россия</country>
     <lon>30.623074661377</lon>
     <lat>59.738853017079</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118767</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Колпино, ТЦ "Меркурий", ул. Пролетарская, 36А</address>
+    <address lang="ru">город Колпино, ТЦ Меркурий, ул. Пролетарская, 36А</address>
     <phone>
       <number>(812) 602-02-19</number>
       <ext/>
@@ -358,12 +404,14 @@
     <country lang="ru">Россия</country>
     <lon>30.583902161758</lon>
     <lat>59.740482616876</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118769</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Комсомольск-на-Амуре, ул.Димитрова, д. 14, ТЦ "БУМ", 2 этаж</address>
+    <address lang="ru">город Комсомольск-на-Амуре, ул.Димитрова, д. 14, ТЦ БУМ, 2 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -373,12 +421,14 @@
     <country lang="ru">Россия</country>
     <lon>137.00473500022</lon>
     <lat>50.55428303694</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118771</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Краснодар, ул.Дзержинского, д. 100 , ТЦ "Красная площадь", 2 этаж</address>
+    <address lang="ru">город Краснодар, ул.Дзержинского, д. 100 , ТЦ Красная площадь, 2 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -388,14 +438,16 @@
     <country lang="ru">Россия</country>
     <lon>38.9834697327</lon>
     <lat>45.1020307383</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118772</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Курск, ул. Карла Маркса, д. 59, ТЦ "Европа 10", 2 этаж</address>
+    <address lang="ru">город Курск, ул. Карла Маркса, д. 59, ТЦ Европа 10, 2 этаж</address>
     <phone>
-      <number>8-919-271-11-71</number>
+      <number>8(919) 271-11-71</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -403,12 +455,14 @@
     <country lang="ru">Россия</country>
     <lon>36.1886491871</lon>
     <lat>51.7582714804</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118774</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Липецк, ул. Петра Смородина, д. 13 а, ТРЦ "Армада", 1 этаж</address>
+    <address lang="ru">город Липецк, ул. Петра Смородина, д. 13 а, ТРЦ Армада, 1 этаж</address>
     <phone>
       <number>(4742) 789-024</number>
       <ext/>
@@ -418,12 +472,14 @@
     <country lang="ru">Россия</country>
     <lon>39.5359875314</lon>
     <lat>52.5887569582</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118773</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Липецк, ул. Титова,  д. 10, ТЦ "Москва", 1 этаж</address>
+    <address lang="ru">город Липецк, ул. Титова,  д. 10, ТЦ Москва, 1 этаж</address>
     <phone>
       <number>(4742) 365-933</number>
       <ext/>
@@ -433,14 +489,16 @@
     <country lang="ru">Россия</country>
     <lon>39.5567565807</lon>
     <lat>52.6171155202</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118775</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
     <address lang="ru">город Магадан, ул. Ленина, 22/2</address>
     <phone>
-      <number>8-4132-200-878</number>
+      <number>8(4132) 200-878</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -448,14 +506,16 @@
     <country lang="ru">Россия</country>
     <lon>150.80222207138</lon>
     <lat>59.563663435031</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118777</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
     <address lang="ru">город Мурманск, ул. Ленинградская, д. 20, 1 этаж</address>
     <phone>
-      <number>8-911-300-01-05</number>
+      <number>8(911) 300-01-05</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -463,14 +523,16 @@
     <country lang="ru">Россия</country>
     <lon>33.07156040565</lon>
     <lat>68.970593947535</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118776</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Мурманск, пр.Ленина, д. 1 (Street-retail)</address>
+    <address lang="ru">город Мурманск, пр.Ленина, д. 1 Street-retail</address>
     <phone>
-      <number>8 (8152) 279-71</number>
+      <number>8 (8152) 279-710</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -478,12 +540,14 @@
     <country lang="ru">Россия</country>
     <lon>33.0908712602</lon>
     <lat>68.9505960149</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118780</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Нижневартовск, ул. Ленина, д. 15П, ТЦ "Югра", 2 этаж</address>
+    <address lang="ru">город Нижневартовск, ул. Ленина, д. 15П, ТЦ Югра, 2 этаж</address>
     <phone>
       <number>(3466) 49-18-41</number>
       <ext/>
@@ -493,12 +557,14 @@
     <country lang="ru">Россия</country>
     <lon>76.5784390482</lon>
     <lat>60.9383384493</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118779</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Нижневартовск, ул.Интернациональная,  д. 73, ТЦ "Подсолнух", 1 этаж</address>
+    <address lang="ru">город Нижневартовск, ул.Интернациональная,  д. 73, ТЦ Подсолнух, 1 этаж</address>
     <phone>
       <number>(3466) 491-842</number>
       <ext/>
@@ -508,12 +574,14 @@
     <country lang="ru">Россия</country>
     <lon>76.6351535058</lon>
     <lat>60.9439928457</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118783</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Нижний Новгород, ул.Коминтерна, д. 105, ТК "Золотая Миля", 3 этаж</address>
+    <address lang="ru">город Нижний Новгород, ул.Коминтерна, д. 105, ТК Золотая Миля, 3 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -523,12 +591,14 @@
     <country lang="ru">Россия</country>
     <lon>43.8706936738</lon>
     <lat>56.3477811269</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118782</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Нижний Новгород,  ул. Белинского, д. 124, ТЦ "Шоколад", 1 этаж</address>
+    <address lang="ru">город Нижний Новгород,  ул. Белинского, д. 124, ТЦ Шоколад, 1 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -538,12 +608,14 @@
     <country lang="ru">Россия</country>
     <lon>44.0271417438</lon>
     <lat>56.3193394943</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118784</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Новосибирск, ул. Фрунзе, д. 238, ТРЦ "Сибирский Молл", 1 этаж</address>
+    <address lang="ru">город Новосибирск, ул. Фрунзе, д. 238, ТРЦ Сибирский Молл, 1 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -553,12 +625,14 @@
     <country lang="ru">Россия</country>
     <lon>82.9607909108</lon>
     <lat>55.0390012144</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_197516</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Оренбург, ТРК "Три мартышки", 2 этаж, ул. Чкалова, д. 48, корпус 3</address>
+    <address lang="ru">город Оренбург, ТРК Три мартышки, 2 этаж, ул. Чкалова, д. 48, корпус 3</address>
     <phone>
       <number>(3532) 66 91 92</number>
       <ext/>
@@ -568,12 +642,14 @@
     <country lang="ru">Россия</country>
     <lon>55.13604150935</lon>
     <lat>51.772857611498</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118785</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Оренбург, Молл "Армада",  галерея №3, Шарлыкское шоссе,  д. 1</address>
+    <address lang="ru">город Оренбург, Молл Армада,  галерея №3, Шарлыкское шоссе,  д. 1</address>
     <phone>
       <number>(3532) 54 01 29</number>
       <ext/>
@@ -583,14 +659,16 @@
     <country lang="ru">Россия</country>
     <lon>55.1174368143</lon>
     <lat>51.8435065356</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118787</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
     <address lang="ru">город Пенза, ТРЦ Суворовский, ул. Суворова 144 А, 2 этаж</address>
     <phone>
-      <number>8-841-230-60-81</number>
+      <number>8(841) 230-60-81</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -598,7 +676,9 @@
     <country lang="ru">Россия</country>
     <lon>44.997813274745</lon>
     <lat>53.202462300788</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118786</company-id>
@@ -613,7 +693,9 @@
     <country lang="ru">Россия</country>
     <lon>34.3647953634</lon>
     <lat>61.7912879731</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118788</company-id>
@@ -628,14 +710,16 @@
     <country lang="ru">Россия</country>
     <lon>56.236711833751</lon>
     <lat>58.011254739278</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118789</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
     <address lang="ru">город Псков, ул. Юбилейная, д. 68, 2 этаж</address>
     <phone>
-      <number>8 (8112) 70-11-1</number>
+      <number>8 (8112) 70-11-19</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -643,14 +727,16 @@
     <country lang="ru">Россия</country>
     <lon>28.291416011217</lon>
     <lat>57.821516825442</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_202335</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Самара, Молл "Парк хаус", Московское шоссе, 81Б, 1 этаж</address>
+    <address lang="ru">город Самара, Молл Парк хаус, Московское шоссе, 81Б, 1 этаж</address>
     <phone>
-      <number>+7 (846) 379-98-</number>
+      <number>+7 (846) 379-98-26</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -658,12 +744,14 @@
     <country lang="ru">Россия</country>
     <lon>50.200126907269</lon>
     <lat>53.233860647036</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_202336</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Смоленск, ТРЦ "Галактика", ул. Новомосковская, д. 2/8</address>
+    <address lang="ru">город Смоленск, ТРЦ Галактика, ул. Новомосковская, д. 2/8</address>
     <phone>
       <number></number>
       <ext/>
@@ -673,14 +761,16 @@
     <country lang="ru">Россия</country>
     <lon>32.055592040735</lon>
     <lat>54.794034471777</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118791</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Смоленск, ТЦ "Юнона", пр. Гагарина, д. 1, 1 этаж</address>
+    <address lang="ru">город Смоленск, ТЦ Юнона, пр. Гагарина, д. 1, 1 этаж</address>
     <phone>
-      <number>8 (4812) 38-77-6</number>
+      <number>8 (4812) 38-77-64</number>
       <ext/>
       <info/>
       <type>phone</type>
@@ -688,12 +778,14 @@
     <country lang="ru">Россия</country>
     <lon>32.0506137297</lon>
     <lat>54.7772663463</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118793</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Старый Оскол, Молодежный пр., д. 10, ТРЦ "Маскарад", 2 этаж</address>
+    <address lang="ru">город Старый Оскол, Молодежный пр., д. 10, ТРЦ Маскарад, 2 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -703,12 +795,14 @@
     <country lang="ru">Россия</country>
     <lon>37.8938132931</lon>
     <lat>51.3166500801</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_181971</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Стерлитамак, ТРЦ "Фабри", ул. Худайбердина, 120</address>
+    <address lang="ru">город Стерлитамак, ТРЦ Фабри, ул. Худайбердина, 120</address>
     <phone>
       <number></number>
       <ext/>
@@ -718,12 +812,14 @@
     <country lang="ru">Россия</country>
     <lon>55.940214373016</lon>
     <lat>53.628206622476</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118792</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Стерлитамак, ул. Артёма, 96, ТРК "Арбат"</address>
+    <address lang="ru">город Стерлитамак, ул. Артёма, 96, ТРК Арбат</address>
     <phone>
       <number></number>
       <ext/>
@@ -733,7 +829,9 @@
     <country lang="ru">Россия</country>
     <lon>55.902100152113</lon>
     <lat>53.62250721829</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118796</company-id>
@@ -748,7 +846,9 @@
     <country lang="ru">Россия</country>
     <lon>35.8656060277</lon>
     <lat>56.8538035717</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118795</company-id>
@@ -763,7 +863,9 @@
     <country lang="ru">Россия</country>
     <lon>35.9089048244</lon>
     <lat>56.8540102817</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118797</company-id>
@@ -778,7 +880,9 @@
     <country lang="ru">Россия</country>
     <lon>37.5800407475</lon>
     <lat>54.1977733432</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118799</company-id>
@@ -793,12 +897,14 @@
     <country lang="ru">Россия</country>
     <lon>65.548752439148</lon>
     <lat>57.117238962172</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118798</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Тюмень, ул.Пермякова, д. 50б, ТРЦ "Солнечный", 1 этаж</address>
+    <address lang="ru">город Тюмень, ул.Пермякова, д. 50б, ТРЦ Солнечный, 1 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -808,12 +914,14 @@
     <country lang="ru">Россия</country>
     <lon>65.5777164266</lon>
     <lat>57.1185057653</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118800</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Улан -Удэ, ТРЦ "People's Park", ул. Жердева, д 104Б, 1 этаж </address>
+    <address lang="ru">город Улан -Удэ, ТРЦ People's Park, ул. Жердева, д 104Б, 1 этаж </address>
     <phone>
       <number></number>
       <ext/>
@@ -823,12 +931,14 @@
     <country lang="ru">Россия</country>
     <lon>107.66337125397</lon>
     <lat>51.812036000001</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118802</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Ханты-Мансийск, ТЦ "Небо", ул. Мира, д. 45, 2 этаж</address>
+    <address lang="ru">город Ханты-Мансийск, ТЦ Небо, ул. Мира, д. 45, 2 этаж</address>
     <phone>
       <number>(3467) 33-83-93</number>
       <ext/>
@@ -838,12 +948,14 @@
     <country lang="ru">Россия</country>
     <lon>69.040436093205</lon>
     <lat>61.00656216284</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118803</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Челябинск, ТРЦ "Фокус" ул. Молдавская 16, 1 этаж</address>
+    <address lang="ru">город Челябинск, ТРЦ Фокус ул. Молдавская 16, 1 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -853,12 +965,14 @@
     <country lang="ru">Россия</country>
     <lon>61.303559476196</lon>
     <lat>55.190654040526</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_180927</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Череповец, ТРЦ "Северо-Западный", ул Ленинградская, д. 1, 2 этаж</address>
+    <address lang="ru">город Череповец, ТРЦ Северо-Западный, ул Ленинградская, д. 1, 2 этаж</address>
     <phone>
       <number>32-30-56</number>
       <ext/>
@@ -868,7 +982,9 @@
     <country lang="ru">Россия</country>
     <lon>37.913359058425</lon>
     <lat>59.0996510743</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118804</company-id>
@@ -883,12 +999,14 @@
     <country lang="ru">Россия</country>
     <lon>113.50629440245</lon>
     <lat>52.041050691951</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118805</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Якутск, ТК "Айсберг", ул Лермонтова, 62/4, 3 этаж</address>
+    <address lang="ru">город Якутск, ТК Айсберг, ул Лермонтова, 62/4, 3 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -898,12 +1016,14 @@
     <country lang="ru">Россия</country>
     <lon>129.71845015344</lon>
     <lat>62.036213700485</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_181968</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Ярославль, ТК "Вернисаж", Дорожная ул., 6А, 1 этаж</address>
+    <address lang="ru">город Ярославль, ТК Вернисаж, Дорожная ул., 6А, 1 этаж</address>
     <phone>
       <number></number>
       <ext/>
@@ -913,12 +1033,14 @@
     <country lang="ru">Россия</country>
     <lon>39.842516253967</lon>
     <lat>57.571151949335</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118807</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Ярославль, ТЦ "Альтаир", Ленинградский пр., д. 123, 1 этаж</address>
+    <address lang="ru">город Ярославль, ТЦ Альтаир, Ленинградский пр., д. 123, 1 этаж</address>
     <phone>
       <number>(4852) 581-495</number>
       <ext/>
@@ -928,12 +1050,14 @@
     <country lang="ru">Россия</country>
     <lon>39.7586259914</lon>
     <lat>57.6978464342</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
   <company>
     <company-id>bx_3966226736_118806</company-id>
     <name lang="ru">Фирменный магазин Pompa</name>
-    <address lang="ru">город Ярославль, ТЦ "РИО", Московский пр., д. 108, 2 этаж</address>
+    <address lang="ru">город Ярославль, ТЦ РИО, Московский пр., д. 108, 2 этаж</address>
     <phone>
       <number>(4852) 413-047</number>
       <ext/>
@@ -943,6 +1067,8 @@
     <country lang="ru">Россия</country>
     <lon>39.8432742406</lon>
     <lat>57.5766122083</lat>
-    <actualization-date>17.09.2015</actualization-date>
+    <rubric-id>184107943</rubric-id>
+    <url>http://www.pompa.ru</url>
+    <actualization-date>27.09.2015</actualization-date>
   </company>
 </companies>
