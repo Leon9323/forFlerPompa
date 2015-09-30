@@ -81,6 +81,7 @@ def getData():
                 pathPhone = ".//*[@id='shops-list']/table/tr["+str(i)+"]/td[2]/text()";
                 phoneCompany = page.xpath(pathPhone);
                 phone = etree.SubElement(company, "phone");
+                if phoneCompany[1]=="": print "A";
                 try:
                     first = unicode(phoneCompany[1]).index(u"Тел. ")+5;
                     last = first+18;
@@ -88,8 +89,12 @@ def getData():
                     if resultPhone[1] == u"-":
                         lastSymbol = resultPhone[2:len(resultPhone)].find(u"-");
                         resultPhone = resultPhone[0]+u"("+resultPhone[2:(lastSymbol+2)]+u") "+resultPhone[(lastSymbol+2+1):len(resultPhone)];
+                    else:
+                        if resultPhone[1] == u" ":
+                            lastSymbol = resultPhone[2:len(resultPhone)].find(u" ");
+                            resultPhone = resultPhone[0]+u"("+resultPhone[2:(lastSymbol+2)]+u") "+resultPhone[(lastSymbol+2+1):len(resultPhone)];
                 except ValueError:
-                    resultPhone = u"";
+                    resultPhone = u"8 (800) 555-40-81";
                 etree.SubElement(phone, "number").text = resultPhone;
                 etree.SubElement(phone, "ext");
                 etree.SubElement(phone, "info");
@@ -133,3 +138,4 @@ def main():
     with open('pompa.xml', 'w') as outfile:
             outfile.write(result);
 main();
+
